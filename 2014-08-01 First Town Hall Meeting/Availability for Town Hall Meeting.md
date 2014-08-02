@@ -30,4 +30,8 @@
 ### Marni Melrose
 1. Friday
 
+### Thomas Hunt
+1. Wed
+2. Thur
+3. Fri
 
